@@ -24,5 +24,5 @@ if price < 60:
         connection.sendmail(
             from_addr=my_email,
             to_addrs="irbis.mr@gmail.com",
-            msg="Subject: Low Price \n\n Price of Electric Pressure Cooker less than $100! Time to spend money, babe!"
+            msg="Subject: Low Price \n\n Price of Electric Pressure Cooker less than $60! Time to spend money, babe!"
             )
