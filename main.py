@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import smtplib
 
 
-my_email = "ksenia790@yahoo.com"
-password = "tqcimncwdetnauis"
+my_email = "******@****"
+password = "***********"
 
 AMAZON_URL = "https://www.amazon.com/Crockpot-SCV803-SS-Manual-Cooker-Stainless/dp/B004DF0CBA/ref=sr_1_1_sspa?_encoding=UTF8&c=ts&dchild=1&keywords=Slow+Cookers&qid=1616827023&s=kitchen&sr=1-1-spons&ts_id=289940&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQ1IyODRHRDZWNlNMJmVuY3J5cHRlZElkPUEwNDgzMDg4MzlRM000RkJHVVhPTSZlbmNyeXB0ZWRBZElkPUEwODQ4OTEwMkxGVE5GTzRBQ05WUCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
 headers = {
